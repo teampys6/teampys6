@@ -1,21 +1,15 @@
-### 👋 Olá! Prazer, sou o Arthur (teampys6).
+### 👋 Hello! Nice to meet you, I'm Arthur (teampys6).
 
-- 🔭 Desenvolvedor Full-Stack Front-End
-- 🌱 Atualmente estudando React e JavaScript
-- 📫 Contate-me por email: flashgames502@gmail.com
+- 🌎 I'm from Brazil
+- 🔭 Full-Stack Front-End Developer
+- 🌱 Currently studying React and JavaScript
+- 📫 Contact me via email: flashgames502@gmail.com
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Arthur-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Arthur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
-  ##
+##
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=teampys6&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <div> 
   <a href="https://www.instagram.com/luiiiz.arthur/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"</a>
   <a href="https://www.linkedin.com/in/arthur-luiz-96ba28277/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
